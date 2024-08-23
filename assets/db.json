@@ -1,0 +1,51 @@
+{
+  "libros": [
+    {
+      "id": "1",
+      "nombre": "Harry Potter",
+      "tipo": "Ciencia Ficcion"
+    },
+    {
+      "id": "2",
+      "nombre": "Algebra",
+      "tipo": "Matematicas"
+    },
+    {
+      "id": "3",
+      "nombre": "Cardiologia",
+      "tipo": "Medicina"
+    },
+    {
+      "id": "4",
+      "nombre": "Colombia Siglo XX",
+      "tipo": "Historia"
+    },
+    {
+      "id": "5",
+      "nombre": "Ingles",
+      "tipo": "Lenguas"
+    }
+  ],
+  "dioses": [
+    {
+      "id": "1",
+      "nombre": "Athenea",
+      "de": "Tierra"
+    },
+    {
+      "id": "2",
+      "nombre": "Poseidon",
+      "de": "Mar"
+    },
+    {
+      "id": "3",
+      "nombre": "Hades",
+      "tipo": "Inframundo"
+    },
+    {
+      "id": "4",
+      "nombre": "Zeus",
+      "tipo": "Cielo"
+    }
+  ]
+}
